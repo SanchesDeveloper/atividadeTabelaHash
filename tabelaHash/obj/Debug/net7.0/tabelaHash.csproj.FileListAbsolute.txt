@@ -1,0 +1,14 @@
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.AssemblyInfoInputs.cache
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.AssemblyInfo.cs
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.csproj.CoreCompileInputs.cache
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\bin\Debug\net7.0\tabelaHash.exe
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\bin\Debug\net7.0\tabelaHash.deps.json
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\bin\Debug\net7.0\tabelaHash.runtimeconfig.json
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\bin\Debug\net7.0\tabelaHash.dll
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\bin\Debug\net7.0\tabelaHash.pdb
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.dll
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\refint\tabelaHash.dll
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.pdb
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\tabelaHash.genruntimeconfig.cache
+C:\Users\paulo.sanches\Documents\faculgado\tabelaHash\tabelaHash\obj\Debug\net7.0\ref\tabelaHash.dll
